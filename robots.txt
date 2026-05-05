@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://VIRGO96.github.io/snippets-adrc9n/sitemap.xml
